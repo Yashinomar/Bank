@@ -1,0 +1,17 @@
+h1{
+    color: rgb(0, 0, 0);
+    background-color: rgb(182, 18, 18);
+    font-size:auto;
+}
+p{
+    color: rgb(253, 245, 30);
+
+}
+strong{
+    color: #ffffff;
+}
+body{
+    background:url(nature.jpg);
+    background-size: 100% ;
+    background-repeat: no-repeat;
+}
